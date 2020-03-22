@@ -1,30 +1,30 @@
 # PC-GAMES
 PC Games enjoyed on intel i5 , Ram 4gb 
-    • call of duty - Black Ops 2 , Black Ops , Modern Warfare ,Modern Warfare 2,Modern Warfare 3, World at War 
-    • Assasin creed - Brotherhood, Revelations , Rogue , Black flag, Unity
-    • Tomb Raider - 2013, 2015
-    • Prototype - 1,2
-    • Crysis- 3
-    • NFS - The Run , Most wanted , Rivals
-    • Resident Evil - 6
-    • DeadPool
-    • Devil May cry - 4
-    • Gta - Vice City , San Andreas , 4
-    • Mafia - 2
-    • Age of Empire - 3 , 4
-    • Warcraft - 3
-    • Starcraft - 2
-    • BattleField - 3
-    • Bio Shock - infinite
-    • Saints Row 4
-    • Total overdose
-    • Call of Juarez: Gunslinger
-    • Batman - Origin
-    • Mass Effect - 3
-    • pubg lite
-    • sniper elite 3
-    • far cry 3
-    • Outlast 2 
-    • Witcher 2
-    • Prince of persia: the forgotten sands
-    • Splinter Cell Blacklist
+    1. call of duty - Black Ops 2 , Black Ops , Modern Warfare ,Modern Warfare 2,Modern Warfare 3, World at War 
+    2. Assasin creed - Brotherhood, Revelations , Rogue , Black flag, Unity
+    3. Tomb Raider - 2013, 2015
+    4. Prototype - 1,2
+    5. Crysis- 3
+    6. NFS - The Run , Most wanted , Rivals
+    7. Resident Evil - 6
+    8. DeadPool
+    9. Devil May cry - 4
+    10. Gta - Vice City , San Andreas , 4
+    11. Mafia - 2
+    12. Age of Empire - 3 , 4
+    13. Warcraft - 3
+    14. Starcraft - 2
+    15. BattleField - 3
+    16. Bio Shock - infinite
+    17. Saints Row 4
+    18. Total overdose
+    19. Call of Juarez: Gunslinger
+    20. Batman - Origin
+    21. Mass Effect - 3
+    22. pubg lite
+    23. sniper elite 3
+    24. far cry 3
+    25. Outlast 2 
+    26. Witcher 2
+    27. Prince of persia: the forgotten sands
+    28. Splinter Cell Blacklist
