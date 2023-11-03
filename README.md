@@ -2,7 +2,7 @@
 PC Games enjoyed on intel i5 , Ram 4gb , No graphic Card
   
   1. Call of duty - Black Ops 2 , Black Ops , Modern Warfare ,Modern Warfare 2,Modern Warfare 3, World at War 
-  2. Assasin creed - Brotherhood, Revelations , Rogue , Black flag, Unity
+  2. Assasin creed - Brotherhood, Revelations , Rogue , Black flag, Unity, Origin , Odysessy
   3. Tomb Raider - 2013, 2015
   4. Prototype - 1,2
   5. Crysis- 3
